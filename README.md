@@ -12,7 +12,7 @@ Catálogo de Produtos e Pesquisa
 Carrinho de Compras e Checkout
 Gerenciamento de Produtos (Admin)
 Como Contribuir
-Licença
+
 Recursos
 Autenticação: Registro, login e controle de acesso via JWT.
 Gestão de Produtos: Administradores podem adicionar, editar e excluir produtos.
@@ -67,18 +67,7 @@ Navegue para a pasta do front-end e abra o arquivo index.html no navegador ou co
 Estrutura do Projeto
 bash
 Copiar código
-e-commerce-dashboard/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
-│   └── .env
-├── frontend/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-└── README.md
+
 Funcionalidades
 Autenticação e Cadastro de Usuários
 Cadastro de usuários com roles: Cliente ou Administrador.
